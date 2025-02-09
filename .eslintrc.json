@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "next/typescript",
+    "plugin:tailwindcss/recomended",
+    "prettier"
+  ],
+  "rules": {
+    "no-undef": "off"
+  }
+}
